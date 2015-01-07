@@ -4,8 +4,4 @@ class StaticPagesController < ApplicationController
 
 	  def signup
 	  end
-
-	  def profile
-	  end
-
 end
