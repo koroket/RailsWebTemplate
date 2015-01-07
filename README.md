@@ -3,7 +3,7 @@ RailsWebTemplate
 
 General Rails Template for Websites with Users
 
-HOW TO USE(Development):
+<b>HOW TO USE(Development):</b>
 
 1.Download as zip or clone to desktop
 2.In terminal cd into the directory 
@@ -11,11 +11,11 @@ HOW TO USE(Development):
 4.In terminal run 'rails s'
 5.Should be running at localhost:3000 in browser
 
-HOW TO USE(Production with Heroku):
+<b>HOW TO USE(Production with Heroku):</b>
 
-Requirements: Heroku Account
+<i>Requirements: Heroku Account</i>
 
-1.Download as zip or clone to desktop
+<p>1.Download as zip or clone to desktop</p>
 2.In terminal cd into the directory 
 3.In terminal run 'git init'
 4.In termincal run 'heroku create'
