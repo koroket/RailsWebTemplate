@@ -24,5 +24,6 @@
 <p>7.In terminal run 'git push heroku master'</p>
 <p>8.In terminal run 'heroku addons:add sendgrid:starter'</p>
 <p>9.In terminal run 'heroku run rake db:migrate'</p>
+<p>10.In terminal run 'heroku open' your app should be running in browser</p>
 
 
