@@ -1,3 +1,6 @@
+$APP_NAME = "App Name"
+$AUTHOR_NAMES = "Author One & Author Two"
+
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   include SessionsHelper
